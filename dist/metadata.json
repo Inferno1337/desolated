@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "esketit#2900",
+    "id": "281157305267912704"
+  },
+  "description": {
+    "en_US": "desolated.tk addon."
+  },
+  "contributors": [
+    {
+      "name": "esketit#2900",
+      "id": "281157305267912704"
+    }
+  ],
+  "url": "desolated.tk",
+  "service": "desolated.tk",
+  "version": "1.0.2",
+  "logo": "https://i.imgur.com/xUEGz3y.jpg",
+  "thumbnail": "https://i.imgur.com/EYH3wxY.png",
+  "color": "#FF0000",
+  "tags": [
+    "music"
+  ],
+  "category": "music"
+}
